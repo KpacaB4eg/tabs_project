@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<item>
+        <btnName>Tab_3 Button_1</btnName>
+        <btnImage>assets/img/buttons/btn_green.png</btnImage>
+    </item>
+	<item>
+        <btnName>Tab_3 Button_2</btnName>
+        <btnImage>assets/img/buttons/btn_blue.png</btnImage>
+    </item>
+	<item>
+        <btnName>Tab_3 Button_3</btnName>
+        <btnImage>assets/img/buttons/btn_yellow.png</btnImage>
+    </item>
+	<item>
+        <btnName>Tab_3 Button_4</btnName>
+        <btnImage>assets/img/buttons/btn_gray.png</btnImage>
+    </item>
+</data>
